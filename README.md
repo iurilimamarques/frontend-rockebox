@@ -1,6 +1,6 @@
 Este projeto foi desenvolvido no decorrer do bootcamp oferecido pela <a href="https://rocketseat.com.br/"> Rocketseat</a> na semana omnistack.
 
-<a href="https://frontend-omnistack5623.herokuapp.com/">Aqui </a> você tem acesso ao site desenvolvido.
+<a href="https://frontend-omnistack5623.herokuapp.com/" target="_blank">Aqui </a> você tem acesso ao site desenvolvido.
 
 Passo a passo para rodar código em seu localhost
 
