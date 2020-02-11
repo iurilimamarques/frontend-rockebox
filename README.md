@@ -2,9 +2,9 @@ Este projeto foi desenvolvido no decorrer do bootcamp oferecido pela <a href="ht
 
 <a href="https://frontend-omnistack5623.herokuapp.com/" target="_blank">Aqui </a> você tem acesso ao site desenvolvido.
 
-Passo a passo para rodar código em seu localhost
+Passo a passo para rodar o código em seu localhost
 
-1º Clone o repositório para sua maquina.
+1º Clone o repositório para sua máquina.
 <br>
 2º Para baixar todas bibliotecas utilizadas, execute: "npm install".
 <br>
