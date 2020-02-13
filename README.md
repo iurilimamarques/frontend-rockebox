@@ -6,6 +6,6 @@ Passo a passo para rodar o código em seu localhost
 
 1º Clone o repositório para sua máquina.
 <br>
-2º Para baixar todas bibliotecas utilizadas, execute: "npm install".
+2º Para baixar todas bibliotecas utilizadas, execute: `npm install`.
 <br>
 3º Clone o repositório do backend <a href="https://github.com/iurilimamarques/backend-rocketbox"> aqui.</a>
